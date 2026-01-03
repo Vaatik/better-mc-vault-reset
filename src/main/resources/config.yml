@@ -1,0 +1,4 @@
+# Cooldown duration between vault looting periods
+# Examples: 30s, 15m, 24h, 7d
+
+cooldown: "8h"
