@@ -4,7 +4,7 @@ plugins {
 }
 
 group = "com.bettermc"
-version = "1.1.0"
+version = "1.1.1"
 
 repositories {
     mavenCentral()
@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-    compileOnly("io.papermc.paper:paper-api:26.2.build.+")
+    compileOnly("io.papermc.paper:paper-api:26.1.2.build.+")
     implementation(kotlin("stdlib"))
 
     testImplementation(kotlin("test"))

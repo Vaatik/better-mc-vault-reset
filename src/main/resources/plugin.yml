@@ -1,7 +1,7 @@
 name: ${name}
 version: ${version}
 main: com.bettermc.vaultreset.VaultResetPlugin
-api-version: '26.2'
+api-version: '26.1'
 description: Better MC Vault Reset allows for Ominous Vaults to be re-looted on cooldown. Shout out to 0xTracee for the idea!
 author: bettermc
 

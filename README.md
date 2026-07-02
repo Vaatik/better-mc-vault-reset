@@ -12,7 +12,7 @@ A Paper plugin that allows players to re-loot Trial Chamber vaults after a confi
 
 ## Requirements
 
-- Paper 26.2+
+- Paper 26.1.2+
 - Java 25
 
 ## Installation
